@@ -191,3 +191,6 @@ issues:
   - name: aqua-microscanner
     previous: 1.0.5
     fixed: 1.0.6 # 2019-04-05
+
+
+Palestine free
