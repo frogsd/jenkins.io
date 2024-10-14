@@ -1,5 +1,5 @@
 ---
-layout: advisory
+layout: hacked
 title: Jenkins Security Advisory 2019-04-30
 section: security
 kind: plugins
